@@ -1,0 +1,7 @@
+discord.py
+bs4
+requests
+textwrap3
+feedparser
+datetime
+python-dateutil
