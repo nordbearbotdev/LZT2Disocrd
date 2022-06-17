@@ -1,5 +1,6 @@
-# LZT2Disocrd
-# Содержание
+# Social2Discord
+
+## Содержание
 
 * [Что такое LZT2Discord](https://github.com/nordbearbotdev/LZT2Disocrd/blob/main/README.md#%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-lzt2discord)
 
